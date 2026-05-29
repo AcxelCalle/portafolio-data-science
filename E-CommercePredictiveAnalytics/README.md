@@ -33,5 +33,6 @@ The final phase translated mathematical outputs into business language. Based on
 * Improve platform retention plans.
 * Reallocate resources towards the features that statistically drive the most value.
 
-## 📂 Repository Structure
-* `ProyectoUNI.ipynb`: The main Jupyter Notebook containing the full code, from data cleaning to model deployment and XAI visualizations.
+## 📂 Full code in Jupyter Notebook
+* `[ProyectoUNI.ipynb](https://nbviewer.org/github/AcxelCalle/portafolio-data-science/blob/main/E-CommercePredictiveAnalytics/ProyectoUNI.ipynb)`: The main Jupyter Notebook containing the full code, from data cleaning to model deployment and XAI visualizations.
+* 
