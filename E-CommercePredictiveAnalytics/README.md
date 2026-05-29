@@ -34,5 +34,5 @@ The final phase translated mathematical outputs into business language. Based on
 * Reallocate resources towards the features that statistically drive the most value.
 
 ## 📂 Full code in Jupyter Notebook
-* `[ProyectoUNI.ipynb](https://nbviewer.org/github/AcxelCalle/portafolio-data-science/blob/main/E-CommercePredictiveAnalytics/ProyectoUNI.ipynb)`: The main Jupyter Notebook containing the full code, from data cleaning to model deployment and XAI visualizations.
+* [ProyectoUNI.ipynb](https://nbviewer.org/github/AcxelCalle/portafolio-data-science/blob/main/E-CommercePredictiveAnalytics/ProyectoUNI.ipynb): The main Jupyter Notebook containing the full code, from data cleaning to model deployment and XAI visualizations.
 * 
