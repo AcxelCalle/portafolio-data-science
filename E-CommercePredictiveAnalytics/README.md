@@ -1,5 +1,7 @@
 # E-Commerce Predictive Analytics & Strategy Formulation
 
+* [ProyectoUNI.ipynb](https://nbviewer.org/github/AcxelCalle/portafolio-data-science/blob/main/E-CommercePredictiveAnalytics/ProyectoUNI.ipynb): The main Jupyter Notebook containing the full code, from data cleaning to model deployment and XAI visualizations.
+
 ## 📌 Project Overview
 This project, developed as part of the advanced Data Science for Business specialization at the Universidad Nacional de Ingeniería (UNI), bridges the gap between raw transactional data and actionable corporate strategy. 
 
@@ -33,6 +35,3 @@ The final phase translated mathematical outputs into business language. Based on
 * Improve platform retention plans.
 * Reallocate resources towards the features that statistically drive the most value.
 
-## 📂 Full code in Jupyter Notebook
-* [ProyectoUNI.ipynb](https://nbviewer.org/github/AcxelCalle/portafolio-data-science/blob/main/E-CommercePredictiveAnalytics/ProyectoUNI.ipynb): The main Jupyter Notebook containing the full code, from data cleaning to model deployment and XAI visualizations.
-* 
