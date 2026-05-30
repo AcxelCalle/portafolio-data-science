@@ -27,3 +27,12 @@ This repository contains end-to-end projects focused on machine learning, databa
 * **Key Implementations:**
   * Implementation of cascade classifiers for face detection.
   * Optimization of frame processing pipelines to ensure low-latency responsiveness.
+
+### 4. [Credit Risk Analytics] Credit Risk Assessment & Portfolio Quality
+* **Tech Stack:** Power BI, Python (Pandas, Seaborn), DAX, Data Cleaning.
+* **Description:** An interactive, end-to-end dashboard designed to evaluate the financial health of a loan portfolio, calculate banking risk metrics, and demographically profile defaulting customers. 
+* **Key Implementations:**
+  * **Python Embedded Visuals:** Integrated Python scripts directly within the Power BI engine to overcome native visual limitations, generating advanced statistical charts (KDE Probability Density and Hexbins) to model the continuous relationship between income, age, and loan amounts.
+  * **Financial KPIs (DAX):** Computed critical banking sector indicators, including the NPL Ratio (Non-Performing Loans - 24.69%) and the total monetary Exposure at Default (S/ 77.1M).
+  * **ETL & Data Transformation:** Pre-processed and cleaned the raw dataset using Python to ensure data integrity prior to ingestion into Power BI's relational model.
+* *[View Interactive Power BI Dashboard](https://app.powerbi.com/reportEmbed?reportId=02178b67-7ac1-4925-b006-a99bab9cc089&autoAuth=true&ctid=717b9a79-1b91-41ab-a6f7-a579b46a9b41&actionBarEnabled=true)*
