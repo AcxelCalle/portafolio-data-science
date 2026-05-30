@@ -1,3 +1,7 @@
+
+
+
+
 # Elegancias Calle ERP: Inventory & Financial Management System
 
 ## 📌 Project Overview
@@ -10,7 +14,7 @@ Built with Python and Flet, this desktop/mobile application centralizes inventor
 ## 🎥 Video Demonstration
 Watch the system in action (UI, workflows, and dashboard):
 
-https://github.com/user-attachments/assets/df26134a-64ca-4e56-93db-c9606b001441
+https://github.com/user-attachments/assets/8f3df57f-4cfc-4b6e-8b2a-c5aa10d56e60
 
 ## 🛠️ Tech Stack
 * **Frontend (UI/UX):** `Flet` (Python)
@@ -39,6 +43,3 @@ Migrating from a physical notebook to a digital database unlocked the ability to
 
 ### 4. Data Validation (Regex)
 To ensure the integrity of the database, I designed robust data entry pipelines using custom Regex patterns. This prevents staff from inputting invalid alphanumeric garment codes, replacing manual syntax errors with automated backend checks.
-
----
-*“True digital transformation is not just about writing code; it’s about understanding the business process and designing a system that makes the user's daily work faster, safer, and measurable.”*
