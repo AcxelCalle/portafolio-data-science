@@ -31,6 +31,3 @@ To surpass Power BI's native graphical limitations regarding continuous data dis
 
 ### 4. Default Demographic Profiling
 The dashboard features cross-filtering capabilities to analyze how housing status (Rent, Mortgage, Own), credit history length, and assigned risk grades (A-G) directly impact a client's probability of default.
-
----
-*This project demonstrates the ability to merge traditional corporate business intelligence with the quantitative rigor of statistical data science.*
